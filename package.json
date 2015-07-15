@@ -1,0 +1,23 @@
+{
+  "name": "danknodeserver",
+  "version": "1.0.0",
+  "description": "daaank",
+  "main": "datahandler.js",
+  "dependencies": {
+    "firebase": "^2.2.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DankBros/DankNodeServer.git"
+  },
+  "author": "Rohan Iyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DankBros/DankNodeServer/issues"
+  },
+  "homepage": "https://github.com/DankBros/DankNodeServer#readme"
+}
